@@ -1,0 +1,36 @@
+body.template{
+  margin:25px;
+  background-color: #ADD8E6;
+  border: 10px solid grey;
+  font-size: 16pt;
+  font-family: "Arial Helvetica" sans-serif;
+}
+div#challenges {
+  background-color: #C39B77;
+  border: 1px BLACK;
+  padding: 25px;
+}
+  div#problems {
+    background-color: #C39B77;
+    border: 1px BLACK;
+    padding: 25px;
+}
+    div#results {
+      background-color: #C39B77;
+      border: 1px BLACK;
+      padding: 25px;
+}
+    h1, h2, h3,{
+      font-size: 20pt;
+      font-family: "Arial Helvetica" sans-serif;
+}
+    div#picture{
+      border:1px BLACK;
+      padding: 25px;
+    }
+    img.miniskater{
+      float: right;
+      width: 200px;
+      height: auto;
+        padding: 25px;
+}

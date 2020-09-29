@@ -34,9 +34,9 @@ div#picture{
 
 img{
   float: right;
-  width: 200px;
-  height: auto;
-  padding: 600px; 
+  width: 100px;
+  height: 300px;
+  padding: 40px;
 }
     img.miniskater{
       float: right;

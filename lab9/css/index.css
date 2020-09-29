@@ -31,16 +31,11 @@ div#challenges {
 }
 div#picture{
   border: 3px BLACK;
+}
 
 img{
   float: right;
   width: 80px;
   height: 180px;
   padding: 40px;
-}
-    img.miniskater{
-      float: right;
-      width: 200px;
-      height: auto;
-      padding: 50px;
 }

@@ -9,17 +9,17 @@ div#content{
   stuff
 }
 div#challenges {
-  background-color: #C39B77;
+  background-color: #6a0dad ;
   border: 1px BLACK;
   padding: 25px;
 }
   div#problems {
-    background-color: #C39B77;
+    background-color: #6a0dad;
     border: 1px BLACK;
     padding: 25px;
 }
     div#results {
-      background-color: #C39B77;
+      background-color: #6a0dad;
       border: 1px BLACK;
       padding: 25px;
 }

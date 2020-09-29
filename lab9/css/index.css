@@ -1,9 +1,12 @@
 body.template{
   margin:25px;
-  background-color: #ADD8E6;
-  border: 10px solid grey;
+  background-color: #ff0000;
+  border: 10px solid brown;
   font-size: 16pt;
   font-family: "Arial Helvetica" sans-serif;
+}
+div#content{
+  stuff
 }
 div#challenges {
   background-color: #C39B77;

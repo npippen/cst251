@@ -9,19 +9,16 @@ div#content{
   stuff
 }
 div#challenges {
-  font color: white
   background-color: #6a0dad ;
   border: 1px BLACK;
   padding: 25px;
 }
   div#problems {
-    font color: white
     background-color: #6a0dad;
     border: 1px BLACK;
     padding: 25px;
 }
     div#results {
-      font color: white
       background-color: #6a0dad;
       border: 1px BLACK;
       padding: 25px;

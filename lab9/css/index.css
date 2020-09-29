@@ -32,6 +32,11 @@ div#challenges {
 div#picture{
   border: 3px BLACK;
 
+img{
+  float: right;
+  max-width 50%
+  height: auto;
+  padding: 40; 
 }
     img.miniskater{
       float: right;

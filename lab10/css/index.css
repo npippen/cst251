@@ -3,7 +3,7 @@ body.template{
   background-color: #3CB371;
   border: 20px solid brown;
   font-size: 16pt;
-  font-family: "blippo" fantasy;
+  font-family: "Didotz" serif;
   font-color: white;
 }
 div#content{
@@ -28,7 +28,7 @@ div#challenges {
      p1, p2, p3 .maintext{
       font-size: 20pt;
       color: white;
-      font-family: "blippo" fantasy;
+      font-family: "Didotz" serif;
 }
 div#picture{
   border: 3px BLACK;

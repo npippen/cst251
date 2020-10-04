@@ -28,19 +28,22 @@ div#challenges {
        font-size: 20pt;
        color: BLACK;
        text-transform: uppercase;
-       font-family: "Arial BLACK" sans-serif;}
+       font-family: "Arial BLACK", sans-serif;
+       letter-spacing: 4pt;}
+
 
        h2 {
       font-size: 20pt;
        color: BLACK;
        text-transform: uppercase;
-       font-family: "Arial BLACK" sans-serif;}
-
+       font-family: "Arial BLACK", sans-serif;
+       letter-spacing: 4pt;}
        h2 {
        font-size: 20pt;
        color: BLACK;
        text-transform: uppercase;
-       font-family: "Arial BLACK" sans-serif;}
+       font-family: "Arial BLACK", sans-serif;
+       letter-spacing: 4pt;}
 }
      p1, p2, p3 .maintext{
       font-size: 12pt;

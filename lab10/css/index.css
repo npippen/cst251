@@ -38,18 +38,20 @@ div#challenges {
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
-       h2 {
+
+       h3 {
        font-size: 20pt;
        color: BLACK;
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
 }
-     p1, p2, p3 .maintext{
+     p1, p2, p3, .maintext{
       font-size: 12pt;
       color: BLACK;
-      font-family: "Arial BLACK" sans-serif;
+      font-family: "Arial BLACK", sans-serif;
 }
+
 div#picture{
   border: 3px BLACK;
 }

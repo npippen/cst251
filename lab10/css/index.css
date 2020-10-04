@@ -28,12 +28,12 @@ div#challenges {
        font-size: 20pt;
        color: BLACK;
        text-transform: uppercase;
-       font-family: "Arial" serif;
+       font-family: "Arial BLACK" sans-serif;
 }
      p1, p2, p3 .maintext{
-      font-size: 20pt;
+      font-size: 12pt;
       color: BLACK;
-      font-family: "Arial" serif;
+      font-family: "Arial BLACK" sans-serif;
 }
 div#picture{
   border: 3px BLACK;

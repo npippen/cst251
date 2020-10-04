@@ -24,11 +24,23 @@ div#challenges {
       padding: 25px;
 
 }
-    h1, h2, h3 .maintext{
+    h1 {
        font-size: 20pt;
        color: BLACK;
        text-transform: uppercase;
-       font-family: "Arial BLACK" sans-serif;
+       font-family: "Arial BLACK" sans-serif;}
+
+       h2 {
+      font-size: 20pt;
+       color: BLACK;
+       text-transform: uppercase;
+       font-family: "Arial BLACK" sans-serif;}
+
+       h2 {
+       font-size: 20pt;
+       color: BLACK;
+       text-transform: uppercase;
+       font-family: "Arial BLACK" sans-serif;}
 }
      p1, p2, p3 .maintext{
       font-size: 12pt;

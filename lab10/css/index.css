@@ -2,9 +2,7 @@ body.template{
   margin: 25px;
   background-color: #3CB371;
   border: 20px solid brown;
-  font-size: 16pt;
-  font-family: "Didotz" serif;
-  font-color: white;
+
 }
 div#content{
   margin: 0px;
@@ -24,6 +22,12 @@ div#challenges {
       background-color: #F5DEB3;
       border: 1px BLACK;
       padding: 25px;
+
+}
+    h1, h2, h3 .maintext{
+       font-size: 20pt;
+       color: white;
+       font-family: "Didotz" serif;
 }
      p1, p2, p3 .maintext{
       font-size: 20pt;

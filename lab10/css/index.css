@@ -26,13 +26,13 @@ div#challenges {
 }
     h1, h2, h3 .maintext{
        font-size: 20pt;
-       color: white;
+       color: BLACK;
        text-transform: uppercase;
        font-family: "Arial" serif;
 }
      p1, p2, p3 .maintext{
       font-size: 20pt;
-      color: white;
+      color: BLACK;
       font-family: "Arial" serif;
 }
 div#picture{

@@ -1,0 +1,42 @@
+body.template{
+  margin: 25px;
+  background-color: #3CB371;
+  border: 20px solid brown;
+  font-size: 16pt;
+  font-family: "blippo" fantasy;
+  font-color: white;
+}
+div#content{
+  margin: 0px;
+  padding: 0px;
+}
+div#challenges {
+  background-color: #F5DEB3;
+  border: 1px BLACK;
+  padding: 25px;
+}
+  div#problems {
+    background-color: #F5DEB3;
+    border: 1px BLACK;
+    padding: 25px;
+}
+    div#results {
+      background-color: #F5DEB3;
+      border: 1px BLACK;
+      padding: 25px;
+}
+     p1, p2, p3 .maintext{
+      font-size: 20pt;
+      color: white;
+      font-family: "blippo" fantasy;
+}
+div#picture{
+  border: 3px BLACK;
+}
+
+img{
+  float: right;
+  width: 350px;
+  height: 550px;
+  padding: 130px;
+}

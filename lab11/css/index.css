@@ -26,6 +26,7 @@ div#challenges {
 
   aside{
   margin: 3%;
+  float: right;
   width: 15%;
 
   }

@@ -22,6 +22,33 @@ div#challenges {
       background-color: #F5DEB3;
       border: 1px BLACK;
       padding: 25px;
+    }
+
+        aside{
+        float: right;
+        margin: 3;
+        width: 15%;
+
+        }
+
+        ul{
+        float: right;
+
+        }
+
+        li a{
+        display: block;
+        padding: 15px;
+        background-color: #3CB371;
+
+        }
+
+
+          nav.links{
+            background-color: #3CB371;
+          }
+
+
 
 }
     h1 {

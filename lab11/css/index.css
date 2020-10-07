@@ -24,18 +24,18 @@ div#challenges {
       padding: 25px;
     }
 
-        aside{
-        float: right;
-        margin: 3%;
-        width: 15%;
+  aside{
+  float: right;
+  margin: 3%;
+  width: 15%;
 
-        }
+  }
 
         ul{
           list-style-type: none;
-          margin:3;
+          margin:0;
           overflow:hidden;
-          background-color: blue;
+          background-color: #808080;
         }
 
         li a{

@@ -6,7 +6,7 @@ body.template{
 }
 div#content{
   margin: 0px;
-  padding: 0px;
+  padding: 10px;
 }
 div#challenges {
   background-color: #F5DEB3;
@@ -25,7 +25,6 @@ div#challenges {
     }
 
   aside{
-  
   margin: 3%;
   width: 15%;
 

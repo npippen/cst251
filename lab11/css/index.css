@@ -26,22 +26,32 @@ div#challenges {
 
         aside{
         float: right;
-        margin: 3;
+        margin: 3%;
         width: 15%;
 
         }
 
         ul{
-        float: right;
-
+          list-style-type: none;
+          margin:3;
+          overflow:hidden;
+          background-color: blue;
         }
 
         li a{
         display: block;
         padding: 15px;
         background-color: #3CB371;
+        color: BLACK;
 
         }
+
+        li{
+          float: right;
+          position: absolute right;
+
+        }
+
 
 
           nav.links{

@@ -76,13 +76,13 @@ div#challenges {
 
 
 }
-    h1 {
-       font-size: 20pt;
-       color: BLACK;
-       text-transform: uppercase;
-       font-family: "Arial BLACK", sans-serif;
-       letter-spacing: 4pt;}
-
+  h1{
+    font-size: 20pt;
+    color:BLACK;
+    text-transform: uppercase;
+    font-family: "Arial Black", sans-serif;
+    letter-spacing: 4pt;
+  }
 
        h2 {
       font-size: 20pt;

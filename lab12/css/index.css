@@ -26,7 +26,7 @@ div#challenges {
 }
     h1 {
        font-size: 20pt;
-       color: BLACK;
+       color: #000080;
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
@@ -34,33 +34,33 @@ div#challenges {
 
        h2 {
       font-size: 20pt;
-       color: BLACK;
+       color: #000080;
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
 
        h3 {
        font-size: 20pt;
-       color: BLACK;
+       color: #000080;
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
 }
 p1, .maintext{
       font-size: 12pt;
-      color: BLACK;
+      color: #000080;
       font-family: "Arial BLACK", sans-serif;
 }
 
 p2, .maintext{
   font-size: 12pt;
-  color: BLACK;
+  color: #000080;
   font-family: "Arial BLACK", sans-serif;
 }
 
 p3, .maintext{
   font-size: 12pt;
-  color: BLACK;
+  color: #000080;
   font-family: "Arial BLACK", sans-serif;
 }
 

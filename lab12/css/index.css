@@ -51,6 +51,8 @@ p0, .maintext{
       font-size: 20pt;
       color: #000080;
       font-family: "Arial BLACK", sans-serif;
+      float: right;
+
 
 }
 
@@ -60,6 +62,7 @@ p1, .maintext{
       font-size:20pt;
       color: #000080;
       font-family: "Arial BLACK", sans-serif;
+      text-align: center;
 }
 
 
@@ -91,4 +94,8 @@ img{
   width: 150px;
   height: 200px;
   padding: 130px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }

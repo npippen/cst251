@@ -1,7 +1,5 @@
 body.template{
-  margin: 25px;
-  background-color: #ADD8E6;
-  border: 20px solid brown;
+  
 
 }
 div#content{
@@ -53,9 +51,7 @@ p0, .maintext{
       font-family: "Arial BLACK", sans-serif;
       float: right;
 
-
 }
-
 
 }
 p1, .maintext{

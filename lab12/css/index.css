@@ -45,6 +45,14 @@ div#challenges {
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
+
+}
+p1, .maintext{
+      font-size: 15pt;
+      color: #000080;
+      font-family: "Arial BLACK", sans-serif;
+
+
 }
 p1, .maintext{
       font-size: 12pt;

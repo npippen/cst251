@@ -1,6 +1,6 @@
 body.template{
   margin: 25px;
-  background-color: #3CB371;
+  background-color: #ADD8E6;
   border: 20px solid brown;
 
 }
@@ -9,17 +9,17 @@ div#content{
   padding: 0px;
 }
 div#challenges {
-  background-color: #F5DEB3;
+  background-color: #D3D3D3;
   border: 1px BLACK;
   padding: 25px;
 }
   div#problems {
-    background-color: #F5DEB3;
+    background-color: #D3D3D3;
     border: 1px BLACK;
     padding: 25px;
 }
     div#results {
-      background-color: #F5DEB3;
+      background-color: #D3D3D3;
       border: 1px BLACK;
       padding: 25px;
 
@@ -69,9 +69,9 @@ div#picture{
   border: 3px BLACK;
 }
 
-img{
+.center-both img{
   float: right;
   width: 150px;
-  height: 250px;
+  height: 200px;
   padding: 130px;
 }

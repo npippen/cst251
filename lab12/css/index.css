@@ -47,7 +47,7 @@ div#challenges {
        letter-spacing: 4pt;}
 
 
-p0, {
+p0, .maintext{
       font-size: 20pt;
       color: #000080;
       font-family: "Arial BLACK", sans-serif;
@@ -56,7 +56,7 @@ p0, {
 
 
 }
-p1,{
+p1, .maintext{
       font-size:20pt;
       color: #000080;
       font-family: "Arial BLACK", sans-serif;

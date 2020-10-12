@@ -4,8 +4,14 @@ body.template{
   border: 5px solid brown;
 
 }
-
+div#floating {
+  max-width: 30%;
+  text-align: center;
 }
+
+
+
+
 div#content{
   margin: 0px;
   padding: 0px;

@@ -1,0 +1,87 @@
+body.template{
+  margin: 25px;
+  background-color: #3CB371;
+  border: 20px solid brown;
+
+}
+div#content{
+  margin: 0px;
+  padding: 0px;
+}
+div#challenges {
+  background-color: #F5DEB3;
+  border: 1px BLACK;
+  padding: 25px;
+}
+  div#problems {
+    background-color: #F5DEB3;
+    border: 1px BLACK;
+    padding: 25px;
+}
+    div#results {
+      background-color: #F5DEB3;
+      border: 1px BLACK;
+      padding: 25px;
+    }
+
+
+      iframe#fake {
+          width: 800px;
+          height: 500px;
+          resize: both;
+          overflow: hidden;
+      }
+
+
+}
+    h1 {
+       font-size: 20pt;
+       color: BLACK;
+       text-transform: uppercase;
+       font-family: "Arial BLACK", sans-serif;
+       letter-spacing: 4pt;}
+
+
+       h2 {
+      font-size: 20pt;
+       color: BLACK;
+       text-transform: uppercase;
+       font-family: "Arial BLACK", sans-serif;
+       letter-spacing: 4pt;}
+
+       h3 {
+       font-size: 20pt;
+       color: BLACK;
+       text-transform: uppercase;
+       font-family: "Arial BLACK", sans-serif;
+       letter-spacing: 4pt;}
+}
+p1, .maintext{
+      font-size: 12pt;
+      color: BLACK;
+      font-family: "Arial BLACK", sans-serif;
+}
+
+p2, .maintext{
+  font-size: 12pt;
+  color: BLACK;
+  font-family: "Arial BLACK", sans-serif;
+}
+
+p3, .maintext{
+  font-size: 12pt;
+  color: BLACK;
+  font-family: "Arial BLACK", sans-serif;
+}
+
+
+div#picture{
+  border: 3px BLACK;
+}
+
+img{
+  float: right;
+  width: 350px;
+  height: 550px;
+  padding: 130px;
+}

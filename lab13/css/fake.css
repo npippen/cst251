@@ -1,39 +1,75 @@
 div#content{
-background-color:#e0cbc8;
+  background-color: #e0cbc8;
+​
 }
-
+​
+​
 div#topright{
+position: absolute;
+top: 100px;
+left:700px;
 z-index: 2;
+​
+​
 }
-
+​
+div#middletext{
+z-index: 2;
+​
+​
+}
+​
 div#and{
-z-index: 2;
+​
+z-index: 2,
 }
-
+​
 div#picture{
-z-index: 2;
+​
+z-index: 2,
 }
-
-
+​
 div#verticalleft{
-z-index: 2;
+​
+​
 }
-
+​
 div#bottomtext{
-z-index: 2;
+  position: fixed;
+  left: 140px;
+  top: 350px;
+z-index: 2
+​
 }
-
+​
+div#date{
+  position: fixed;
+      top: 350px;
+      left: 201px;
+}
+p1{
+​
+ }
 h1{
-  font-family: ProximaNova Th, sans-serif;
-  z-index: 2;
-
-}
-
-h2{
+font-family: ProximaNova Th, sans-serif;
+font-size: 12pt;
+color: white;
+letter-spacing: 3.5px;
+text-decoration: underline;
 z-index: 2;
-
 }
-
+​
+​
+h2{
+​
+​
+​
+}
+h6{
+​
+}
+​
+​
 h3{
 writing-mode: vertical-rl;
 position: fixed;
@@ -42,21 +78,37 @@ bottom: 100px;
 left: 0px;
 right: auto;
 z-index: 2;
+font-family: ProximaNova th, sans-serif;
+color: white;
+font-size: 12pt;
+​
+​
+​
 }
-
+​
 h4{
+font-family: ProximaNova Th, sans-serif;
+font-size: 22pt;
+color: white;
 z-index: 2;
-
 }
-
+ h5{
+   font-size: 38pt;
+   font-family: ProximaNova Th, sans-serif;
+   color: #061634;
+   position: fixed;
+ }
+​
 img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-
-  z-index: 1;
+display: block;
+margin-left: 150px;
+margin-right: 210px;
+z-index: 1;
+​
+​
 }
-
-
-
-#061634
+​
+p1{
+​
+}
+Collapse

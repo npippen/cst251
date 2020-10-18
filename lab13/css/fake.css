@@ -26,6 +26,7 @@ div#bottomtext{
 }
 
 h1{
+  font-family: ProximaNovs Th, sans-serif;
 
 }
 
@@ -34,7 +35,12 @@ h2{
 }
 
 h3{
-
+writing-mode: verical-r1;
+position: fixed;
+top: 100px
+bottom: 100px
+left: 0px
+right: auto;
 }
 
 h4{

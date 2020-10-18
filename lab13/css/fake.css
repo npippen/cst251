@@ -35,9 +35,11 @@ z-index: 2;
 }
 
 h3{
-writing-mode: vertical-r1;
+writing-mode: vertical-rl;
 top: 100px;
 bottom: 100px;
+left: auto;
+right: auto;
 z-index: 2;
 }
 
@@ -50,8 +52,7 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  left: auto;
-  right: auto;
+
   z-index: 1;
 }
 

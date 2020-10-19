@@ -15,20 +15,20 @@ div#problems{
   background-color:  #FFB6C1;
   padding: 10px;
 }
-​
+
 div#results{
   background-color:  #FFB6C1;
   padding: 10px;
 }
-​
+
 iframe#fake {
     width: 800px;
     height: 500px;
     resize: both;
     overflow: hidden;
 }
-​
-​
+
+
 h1 {
   font-size: 36pt;
   color: White;
@@ -92,7 +92,7 @@ p1{
   font-family: arial, sans-serif;
   font-size: 16pt;
 }
-​
+
 p2{
   color:white;
   font-family: arial, sans-serif;

@@ -20,8 +20,8 @@ div#content{
   padding: 0px;
 }
 
-div {
- box-shadow: 3px 3px 5px grey;
+div#class{
+   box-shadow: 3px 3px 5px grey;
 }
 
 div#challenges {

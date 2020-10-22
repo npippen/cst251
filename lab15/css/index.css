@@ -20,9 +20,6 @@ div#content{
   padding: 0px;
 }
 
-div#class{
-   box-shadow: 3px 3px 5px grey;
-}
 
 div#challenges {
   background-color: #D3D3D3;
@@ -46,7 +43,7 @@ div#challenges {
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
-
+       text-shadow: 3px 3px 5px grey;
 
        h2 {
       font-size: 20pt;
@@ -54,6 +51,7 @@ div#challenges {
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
+       text-shadow: 3px 3px 5px grey;
 
        h3 {
        font-size: 20pt;
@@ -61,6 +59,7 @@ div#challenges {
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
+       text-shadow: 3px 3px 5px grey;
 
 
 p0, .maintext{

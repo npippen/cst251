@@ -153,4 +153,5 @@ img{
   margin-right: auto;
   filter: saturate(250%);
   border-radius: 50px;
+  object-fit: fill;
 }

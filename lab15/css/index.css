@@ -2,9 +2,13 @@ body.template{
   margin: 25px;
   background-color: #ADD8E6;
   border: 5px solid brown;
-  background-image: linear-gradient (#ADD8E6, #e38dcd);
 }
 
+html{
+  height: auto;
+  background-image: linear-gradient()inear-gradient (#ADD8E6, #e38dcd);
+}
+}
 
 }
 div#floating {

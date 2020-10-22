@@ -43,7 +43,7 @@ div#challenges {
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
-       text-shadow: 3px 3px 5px grey;
+
 
        h2 {
       font-size: 20pt;
@@ -51,7 +51,7 @@ div#challenges {
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
-       text-shadow: 3px 3px 5px grey;
+
 
        h3 {
        font-size: 20pt;
@@ -59,8 +59,7 @@ div#challenges {
        text-transform: uppercase;
        font-family: "Arial BLACK", sans-serif;
        letter-spacing: 4pt;}
-       text-shadow: 3px 3px 5px grey;
-
+    
 
 p0, .maintext{
       font-size: 20pt;

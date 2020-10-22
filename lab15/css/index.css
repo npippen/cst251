@@ -2,6 +2,7 @@ body.template{
   margin: 25px;
   background-color: #ADD8E6;
   border: 5px solid brown;
+  box-shadow: 3px 3px 5px blue;
 }
 
 html{

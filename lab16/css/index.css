@@ -1,8 +1,9 @@
 
-html {
-   background: url(pumpkin.jpg) no-repeat centerfixed;
-   background-size: cover;
-  }
+#example1 {
+ background:url(pumpkin.jpg);
+ background-size:cover;
+ background-repeat: no-repeat;
+}
 
 }
 div#floating {
@@ -15,7 +16,6 @@ div#content{
   margin: 0px;
   padding: 0px;
 }
-
 
 div#challenges {
   border: 1px BLACK;

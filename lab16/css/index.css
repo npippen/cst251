@@ -11,6 +11,15 @@ div#floating {
   text-align: center;
 }
 
+div img{
+ width: 100px;
+ height: 100px;
+ transition: width 2s, height 4s;
+}
+div:hover {
+ width: 300px;
+}
+
 
 div#content{
   margin: 0px;

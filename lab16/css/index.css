@@ -9,10 +9,6 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
-html{
-  height: auto;
-  background-image: linear-gradient(#ADD8E6, #e38dcd);
-}
 
 }
 div#floating {

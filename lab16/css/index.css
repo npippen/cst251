@@ -135,15 +135,9 @@ div#picture{
   max height: 20%;
 }
 
-div {
- width: 100px;
- height: 100px;
- transition: width 2s;
-}
-
 img{
   float: right;
-  width: 500px;
+  width: 400px;
   height: 150px;
   padding-top: 25px;
   margin-left: auto;
@@ -151,8 +145,4 @@ img{
   filter: saturate(250%);
   border-radius: 50px;
   object-fit: fill;
-}
-
-div:hover {
- width: 300px;
 }

@@ -135,16 +135,6 @@ div#picture{
   max height: 20%;
 }
 
-
-div img{
- width: 100px;
- height: 100px;
- transition: width 2s;
-}
-div:hover {
- width: 300px;
-}
-
 img{
   float: right;
   width: 400px;

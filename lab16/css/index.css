@@ -104,7 +104,7 @@ p0, .maintext{
 }
 p1, .maintext{
       font-size:20pt;
-      color: #000080;
+      color: #FFA500;
       font-family: "Arial BLACK", sans-serif;
       text-align: center;
 }
@@ -112,19 +112,19 @@ p1, .maintext{
 
 p2, .maintext{
       font-size: 12pt;
-      color: #000080;
+      color: #FFA500;
       font-family: "Arial BLACK", sans-serif;
 }
 
 p3, .maintext{
   font-size: 12pt;
-  color: #000080;
+  color: ##FFA500;
   font-family: "Arial BLACK", sans-serif;
 }
 
 p4, .maintext{
   font-size: 12pt;
-  color: #000080;
+  color: #FFA500;
   font-family: "Arial BLACK", sans-serif;
 }
 

@@ -1,10 +1,4 @@
 
-#example1 {
- background:url(pumpkin.jpg);
- background-size: cover;
- background-repeat: no-repeat;
-}
-
 }
 div#floating {
   max-width: 30%;
@@ -132,7 +126,7 @@ p4, .maintext{
 div#picture{
   border: 3px BLACK;
   max width: 20%;
-  max height: 20%;
+  max height: 60%;
 }
 
 img {

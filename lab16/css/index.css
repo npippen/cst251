@@ -5,11 +5,12 @@ body.template{
   box-shadow: 3px 3px 5px blue;
 }
 
-html {
- background: url(Pumpkin.jpg) no-repeat center fixed;
- background-size: cover;
+html{
+  height: auto;
+  background-image: linear-gradient(#ADD8E6, #e38dcd);
 }
 
+}
 div#floating {
   max-width: 30%;
   text-align: center;

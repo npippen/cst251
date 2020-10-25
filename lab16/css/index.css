@@ -1,3 +1,9 @@
+
+html {
+   background: url(pumpkin.jpg) no-repeat centerfixed;
+   background-size: cover;
+  }
+
 }
 div#floating {
   max-width: 30%;

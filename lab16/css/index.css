@@ -1,7 +1,7 @@
 
 #example1 {
  background:url(pumpkin.jpg);
- background-size:cover;
+ background-size: cover;
  background-repeat: no-repeat;
 }
 
@@ -133,15 +133,6 @@ div#picture{
   border: 3px BLACK;
   max width: 20%;
   max height: 20%;
-}
-
-div {
- width: 100px;
- height: 100px;
- transition: width 2s;
-}
-div:hover {
- width: 300px;
 }
 
 img{

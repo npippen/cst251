@@ -1,7 +1,7 @@
 body.template{
 margin: 25px;
 background-color: #ADD8E6;
-boder: 5px solid brown;
+border: 5px solid brown;
 box-shadow: 3px 3px 5px blue;
 }
 
@@ -9,6 +9,7 @@ html{
   height: auto;
   background-image: linear-gradient(#ADD8E6, #e38dcd);
 }
+
 
 div#floating {
   max-width: 30%;

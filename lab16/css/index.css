@@ -135,6 +135,18 @@ div#picture{
   max height: 20%;
 }
 
+#animation{
+  width:100px;
+  height: 40px;
+  background: url('../img/ghost.png') left center
+  animation: play 1.5 steps(10) infinite;
+  display inline-block;
+}
+
+@@keyframes play {
+  100% { background-posistion: -1000px; }
+}
+
 img{
   float: right;
   width: 400px;

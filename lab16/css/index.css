@@ -135,16 +135,14 @@ div#picture{
   max height: 20%;
 }
 
-#animation{
-  width:100px;
-  height: 40px;
-  background: url('../img/ghost.png') left center
-  animation: play 1.5 steps(10) infinite;
-  display inline-block;
+img {
+ border-radius: 0%;
+ -webkit-transition: -webkit-transform .8s ease-in-out;
+         transition:         transform .8s ease-in-out;
 }
-
-@@keyframes play {
-  100% { background-posistion: -1000px; }
+img:hover {
+ -webkit-transform: rotate(360deg);
+         transform: rotate(360deg);
 }
 
 img{

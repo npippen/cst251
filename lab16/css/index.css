@@ -14,6 +14,8 @@ div#floating {
 div#content{
   margin: 0px;
   padding: 0px;
+  column-count: 3;
+  column-rule:
 }
 
 div#challenges {

@@ -151,7 +151,6 @@ img{
   padding-top: 25px;
   margin-left: auto;
   margin-right: auto;
-  filter: saturate(250%);
   border-radius: 50px;
   object-fit: fill;
 }

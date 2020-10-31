@@ -1,5 +1,6 @@
 section#header{
-
+border: 2px solid green;
+padding-bottom: 5px;
 }
 
 nav#navigation{
@@ -47,5 +48,5 @@ p3{
 
 
 aside#links{
-  
+
 }

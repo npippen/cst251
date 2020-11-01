@@ -1,0 +1,110 @@
+section#header{
+border: 5px solid green;
+}
+
+h4{
+  font-size: 40px;
+  font-family:courier,arial,helvetica;
+  color: solid green;
+  text-align: center;
+}
+
+nav#navigation{
+font-size: 20px;
+}
+
+main{
+
+}
+
+div#img{
+  position: absolute;
+  position: absolute;
+    left: 5px;
+    right: 60px;
+    top: auto;
+    bottom: auto;
+
+}
+img{
+  float: right;
+  max-width: 40%;
+  border: 5px solid green;
+  margin-right: 3px;
+  margin-left: 5px;
+  width: 380px;
+  height: 420px;
+}
+.first{
+border: 5px solid green;
+margin: 10px;
+width: 800px;
+}
+
+h1{
+  font-size: 30px;
+  font-family:courier,arial,helvetica;
+  color: green;
+}
+
+p1{
+
+}
+.second{
+border: 5px solid green;
+margin: 10px;
+width: 800px;
+}
+
+h2{
+  font-size: 30px;
+  font-family:courier,arial,helvetica;
+  color: green;
+}
+
+p2{
+
+}
+
+.third{
+border: 5px solid green;
+margin: 10px;
+width: 800px;
+}
+
+h3{
+  font-size: 30px;
+  font-family:courier,arial,helvetica;
+  color: green;
+}
+
+p3{
+
+}
+
+.fourth{
+border: 5px solid green;
+margin: 10px;
+width: 800px;
+}
+
+h5{
+  font-size: 30px;
+  font-family:courier,arial,helvetica;
+  color: green;
+}
+
+h6{
+  font-size: 15pt;
+  font-family:courier,arial,helvetica;
+}
+
+h7{
+  font-family:courier,arial,helvetica;
+  color: black;
+}
+
+
+aside#links{
+
+}

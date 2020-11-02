@@ -20,7 +20,7 @@ font-size: 20px;
 border: 5px solid #b51d2f;
 margin: 5px;
 position: absolute;
-bottom: -90px;
+bottom: -180px;
 right:160px;
 }
 
@@ -29,7 +29,7 @@ aside#links{
   border: 5px solid #b51d2f;
   margin: 5px;
   position: absolute;
-  bottom: -245px;
+  bottom: -265px;
   right:115px;
 
 }
@@ -117,7 +117,7 @@ margin: 10px;
 width: 800px;
 float: none;
 position: absolute;
-bottom: -250px;
+bottom: -345px;
 left: 75px;
 
 }
@@ -126,6 +126,7 @@ h5{
   font-size: 30px;
   font-family:courier,arial,helvetica;
   color: #b3953d;
+
 
 }
 

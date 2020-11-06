@@ -2,6 +2,8 @@ section#header{
 
 }
 
+
+
 @media only screen (max-width: 600px){
   img#side{
     max-width: 100%;

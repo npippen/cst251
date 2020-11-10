@@ -8,16 +8,22 @@ div#challenges {
   background-color: #a9a9a9;
   border: 1px BLACK;
   padding: 25px;
+  float: left;
+    border: 2px solid grey;
 }
 div#problems {
   background-color: #a9a9a9;
   border: 1px BLACK;
   padding: 25px;
+  float: left;
+    border: 2px solid grey;
 }
 div#results {
   background-color: #a9a9a9;
   border: 1px BLACK;
   padding: 25px;
+  float: left;
+  border: 2px solid grey;
 }
 h1, h2, h3,{
   font-size: 20pt;
@@ -25,7 +31,7 @@ h1, h2, h3,{
 }
 img{
   float: right;
-  width: 200px;
-  height: auto;
+  width: 600px;
+  height: 400px;
 
 }

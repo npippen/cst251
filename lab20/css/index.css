@@ -1,0 +1,105 @@
+body.template{
+  margin: 25px;
+  background-color: #ADD8E6;
+  border: 5px solid brown;
+
+}
+div#floating {
+  max-width: 30%;
+  text-align: center;
+}
+
+
+div#content{
+  margin: 0px;
+  padding: 0px;
+}
+div#challenges {
+  background-color: #D3D3D3;
+  border: 1px BLACK;
+  padding: 25px;
+}
+  div#problems {
+    background-color: #D3D3D3;
+    border: 1px BLACK;
+    padding: 25px;
+}
+    div#results {
+      background-color: #D3D3D3;
+      border: 1px BLACK;
+      padding: 25px;
+
+}
+    h1 {
+       font-size: 20pt;
+       color: #000080;
+       text-transform: uppercase;
+       font-family: "Arial BLACK", sans-serif;
+       letter-spacing: 4pt;}
+
+
+       h2 {
+      font-size: 20pt;
+       color: #000080;
+       text-transform: uppercase;
+       font-family: "Arial BLACK", sans-serif;
+       letter-spacing: 4pt;}
+
+       h3 {
+       font-size: 20pt;
+       color: #000080;
+       text-transform: uppercase;
+       font-family: "Arial BLACK", sans-serif;
+       letter-spacing: 4pt;}
+
+
+p0, .maintext{
+      font-size: 20pt;
+      color: #000080;
+      font-family: "Arial BLACK", sans-serif;
+      float: right;
+
+}
+
+}
+p1, .maintext{
+      font-size:20pt;
+      color: #000080;
+      font-family: "Arial BLACK", sans-serif;
+      text-align: center;
+}
+
+
+p2, .maintext{
+      font-size: 12pt;
+      color: #000080;
+      font-family: "Arial BLACK", sans-serif;
+}
+
+p3, .maintext{
+  font-size: 12pt;
+  color: #000080;
+  font-family: "Arial BLACK", sans-serif;
+}
+
+p4, .maintext{
+  font-size: 12pt;
+  color: #000080;
+  font-family: "Arial BLACK", sans-serif;
+}
+
+
+div#picture{
+  border: 3px BLACK;
+  max width: 20%;
+  max height: 20%;
+}
+
+img{
+  float: right;
+  width: 150px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+
+}

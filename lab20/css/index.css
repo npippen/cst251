@@ -95,12 +95,10 @@ div#picture{
 }
 
 img{
-
   float: right;
   width: 250px;
   height: 300px;
   margin-left:18px;
   margin-right: 5px;
   margin-top: 20px
-
 }
